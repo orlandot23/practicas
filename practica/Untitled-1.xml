@@ -1,0 +1,16 @@
+<body>
+    <section id="1">
+        <h1>Registro</h1>
+    </section>
+    <section id="2">
+        <form id="Registro">
+            <input type="text"placeholder="Nombre"/>
+            <input type="text"placeholder="Apellido"/>
+            <input type="text"placeholder="Telefono"/>
+            <select id="tipo">
+                <option value="profesor">Profesor</option>
+                <option value="alumno">Alumno</option>
+            </select>
+        </form>
+    </section>
+</body>
